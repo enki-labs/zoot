@@ -26,7 +26,8 @@
     "neo4j": "*",
     "redis": "*",
     "node-uuid": "*",
-    "winston": "*"
+    "winston": "*",
+    "step": "*"
   },
   "devDependencies": {
   "mocha": "*"
